@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\morse\morse\bin\Release\morse.exe.config
+C:\Users\rafae\source\repos\morse\morse\bin\Release\morse.exe
+C:\Users\rafae\source\repos\morse\morse\bin\Release\morse.pdb
+C:\Users\rafae\source\repos\morse\morse\obj\Release\MainWindow.g.cs
+C:\Users\rafae\source\repos\morse\morse\obj\Release\App.g.cs
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse_MarkupCompile.cache
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse_MarkupCompile.lref
+C:\Users\rafae\source\repos\morse\morse\obj\Release\MainWindow.baml
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse.g.resources
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse.Properties.Resources.resources
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse.exe
+C:\Users\rafae\source\repos\morse\morse\obj\Release\morse.pdb
