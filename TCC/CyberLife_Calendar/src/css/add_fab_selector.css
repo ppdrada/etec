@@ -1,0 +1,13 @@
+VBox{
+	-fx-background-color: #ffffff;
+	-fx-background-radius: 3px;
+}
+
+Label{
+	-fx-padding: 10 50 10 10;
+}
+
+Label:hover{
+	-fx-background-color: rgba(0,0,0,0.15);
+	-fx-background-radius: 3px;
+}
