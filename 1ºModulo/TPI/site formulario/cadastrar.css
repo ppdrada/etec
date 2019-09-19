@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://4.bp.blogspot.com/-fZlaAibP2c4/Tl6HdLgW5yI/AAAAAAAADiA/V6c5Ka4j8Ag/s1600/paisagem-com-flores-amarelas-imagens-imagem-de-fundo-wallpaper-para-pc-computador-tela-gratis-ambiente-de-trabalho.jpg.jpg")
+}
+
+p{
+    color:black;
+    font-family: "verdana", monospace;
+}
+
+h1{
+    color: black;
+    font-family: "verdana";
+}
+
+legend{
+    color: black;
+    font-family: "verdana";
+}
+
+
+p {
+    color:black;
+    background-color: transparent;
+}
+
+#conteudo{
+    background-color: bisque;
+    margin-top: 2em;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid black 4px;
+    padding: 4em;
+}
+
+
+
+
+
+  

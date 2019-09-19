@@ -1,0 +1,16 @@
+c:\users\manoe\source\repos\Katana\Katana\bin\Debug\Katana.exe
+c:\users\manoe\source\repos\Katana\Katana\bin\Debug\Katana.pdb
+c:\users\manoe\source\repos\Katana\Katana\obj\Debug\Katana.csprojAssemblyReference.cache
+c:\users\manoe\source\repos\Katana\Katana\obj\Debug\Katana.csproj.CoreCompileInputs.cache
+c:\users\manoe\source\repos\Katana\Katana\obj\Debug\Katana.exe
+c:\users\manoe\source\repos\Katana\Katana\obj\Debug\Katana.pdb
+c:\users\manoe\source\repos\Katana\Katana\bin\Debug\Microsoft.Speech.dll
+c:\users\manoe\source\repos\Katana\Katana\obj\Debug\Katana.csproj.CopyComplete
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\bin\Debug\Katana.exe
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\bin\Debug\Katana.pdb
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\bin\Debug\Microsoft.Speech.dll
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\obj\Debug\Katana.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\obj\Debug\Katana.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\obj\Debug\Katana.csproj.CopyComplete
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\obj\Debug\Katana.exe
+C:\Users\rafae\OneDrive\Documentos\C#\Katana\Katana\obj\Debug\Katana.pdb

@@ -1,0 +1,9 @@
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\bin\Debug\LigarLedPorVoz.exe.config
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\bin\Debug\LigarLedPorVoz.exe
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\bin\Debug\LigarLedPorVoz.pdb
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\bin\Debug\Microsoft.Speech.dll
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\obj\Debug\LigarLedPorVoz.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\obj\Debug\LigarLedPorVoz.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\obj\Debug\LigarLedPorVoz.csproj.CopyComplete
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\obj\Debug\LigarLedPorVoz.exe
+C:\Users\rafae\source\repos\LigarLedPorVoz\LigarLedPorVoz\obj\Debug\LigarLedPorVoz.pdb

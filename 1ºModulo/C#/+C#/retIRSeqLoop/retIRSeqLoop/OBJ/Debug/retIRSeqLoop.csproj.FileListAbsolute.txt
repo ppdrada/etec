@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\retIRSeqLoop\retIRSeqLoop\bin\Debug\retIRSeqLoop.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\retIRSeqLoop\retIRSeqLoop\bin\Debug\retIRSeqLoop.exe
+c:\users\admin\documents\visual studio 2013\Projects\retIRSeqLoop\retIRSeqLoop\bin\Debug\retIRSeqLoop.pdb
+c:\users\admin\documents\visual studio 2013\Projects\retIRSeqLoop\retIRSeqLoop\obj\Debug\retIRSeqLoop.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\retIRSeqLoop\retIRSeqLoop\obj\Debug\retIRSeqLoop.exe
+c:\users\admin\documents\visual studio 2013\Projects\retIRSeqLoop\retIRSeqLoop\obj\Debug\retIRSeqLoop.pdb
+L:\LP\C#\retIRSeqLoop\retIRSeqLoop\bin\Debug\retIRSeqLoop.exe.config
+L:\LP\C#\retIRSeqLoop\retIRSeqLoop\obj\Debug\retIRSeqLoop.exe
+L:\LP\C#\retIRSeqLoop\retIRSeqLoop\obj\Debug\retIRSeqLoop.pdb

@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Cadastro</title>
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <body style="background-image: url(https://images2.alphacoders.com/511/511941.jpg); background-size: cover; background-position: 0px 70px">
+        <header>Cadastro</header>
+        <nav>
+            <a href="inicio.html">Início</a>
+            <a href="entreter.html">Entreterimento</a>
+            <a href="Imagem.html">Imagens</a>
+            <a href="" class="active">Cadastro</a>
+        </nav>
+        <form>
+            <fieldset>
+                <legend>Dados do usuário</legend>
+                <p><label for="cNome">Nome:</label><input type="text" id="cNome" size="20" maxlength="40" placeholder="Digite o seu nome" required></p>
+                <fieldset>
+                    <legend>Sexo</legend>
+                    <label for="cMasc">Masculino</label><input type="radio" id="cMasc" name="cSexo" checked>
+                    <label for="cFemi">Feminino</label><input type="radio" id="cFemi" name="cSexo">
+                </fieldset>
+                <p><label for="cData">Data de nascimento:</label><input type="date" id="cData"></p>
+                <p><label for="cEstado">Estado:</label>
+                    <select id="cEstado" name="estados">
+                        <option value="SP">São Paulo</option>
+                        <option value="RJ">Rio de Janeiro</option>
+                        <option value="MT">Mato Grosso</option>
+                        <option value="RS">Rio Grande do Sul</option>
+                        <option value="BA">Bahia</option>
+                        <option value="MG">Minas Gerais</option>
+                        <option value="SC">Santa Catarina</option>
+                        <option value="AC">Acre</option>
+                        <option value="MA">Manaus</option>
+                        <option value="RR">Roraima</option>
+                    </select></p>
+                <p><input type="submit" value="enviar"></p>
+                
+                <a href="https://www.youtube.com/watch?v=IlwDnL9MC4Q">Youtube</a>
+            </fieldset>
+        </form>
+        <footer>&copy; Manoel &amp; Rafael</footer>
+    </body>
+</html>

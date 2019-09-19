@@ -1,0 +1,6 @@
+K:\M\ETEC\LP\C#\SistemasNumerico\SistemasNumerico\bin\Debug\SistemasNumerico.exe.config
+K:\M\ETEC\LP\C#\SistemasNumerico\SistemasNumerico\bin\Debug\SistemasNumerico.exe
+K:\M\ETEC\LP\C#\SistemasNumerico\SistemasNumerico\bin\Debug\SistemasNumerico.pdb
+K:\M\ETEC\LP\C#\SistemasNumerico\SistemasNumerico\obj\Debug\SistemasNumerico.csprojResolveAssemblyReference.cache
+K:\M\ETEC\LP\C#\SistemasNumerico\SistemasNumerico\obj\Debug\SistemasNumerico.exe
+K:\M\ETEC\LP\C#\SistemasNumerico\SistemasNumerico\obj\Debug\SistemasNumerico.pdb

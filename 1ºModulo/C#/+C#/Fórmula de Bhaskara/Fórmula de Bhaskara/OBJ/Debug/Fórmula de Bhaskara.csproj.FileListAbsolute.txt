@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2013\Projects\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.exe
+c:\users\admin\documents\visual studio 2013\Projects\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.exe
+c:\users\admin\documents\visual studio 2013\Projects\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.pdb
+D:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.exe.config
+D:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.exe
+D:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.pdb
+D:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.csprojResolveAssemblyReference.cache
+D:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.csproj.CoreCompileInputs.cache
+D:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.exe
+D:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.pdb
+F:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.exe.config
+F:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.exe
+F:\LP\C#\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.pdb
+F:\M\ETEC\LP\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.exe.config
+F:\M\ETEC\LP\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.exe
+F:\M\ETEC\LP\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.pdb
+K:\M\ETEC\LP\Fórmula de Bhaskara\Fórmula de Bhaskara\bin\Debug\Fórmula de Bhaskara.exe.config
+K:\M\ETEC\LP\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.exe
+K:\M\ETEC\LP\Fórmula de Bhaskara\Fórmula de Bhaskara\obj\Debug\Fórmula de Bhaskara.pdb

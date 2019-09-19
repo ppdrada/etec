@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Media2NotasLoop\Media2NotasLoop\bin\Debug\Media2NotasLoop.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Media2NotasLoop\Media2NotasLoop\obj\Debug\Media2NotasLoop.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Media2NotasLoop\Media2NotasLoop\bin\Debug\Media2NotasLoop.exe
+c:\users\admin\documents\visual studio 2013\Projects\Media2NotasLoop\Media2NotasLoop\bin\Debug\Media2NotasLoop.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Media2NotasLoop\Media2NotasLoop\obj\Debug\Media2NotasLoop.exe
+c:\users\admin\documents\visual studio 2013\Projects\Media2NotasLoop\Media2NotasLoop\obj\Debug\Media2NotasLoop.pdb

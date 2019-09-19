@@ -1,0 +1,64 @@
+html, body{
+    margin: 0;
+    height: 100%;
+}
+
+p{
+    font-family: fantasy;
+    font-size: 120%;
+}
+
+legend{
+    font-family: fantasy;
+    font-size: 150%;
+}
+
+header{
+    padding: 15px;
+    background-color: darkblue;
+    color: white;
+    font-family: fantasy;
+    font-size: 150%;
+}
+
+nav{
+    padding: 10px;
+    background-color: darkblue;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    font-family: fantasy;
+    font-size: 120%;
+    border-radius: 2px;
+}
+
+nav a:hover:not(.active){
+    background-color: rgba(0,0,0,0.3);
+}
+
+.active{
+    background-color: black;
+}
+
+form{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 600px;
+    padding: 25px;
+    border: solid 4px black;
+    background-color: white;
+}
+
+footer{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    bottom: 0;
+    font-family: fantasy;
+    font-size: 150%;
+}

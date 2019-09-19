@@ -1,0 +1,6 @@
+L:\LP\C#\retIREncLoop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+L:\LP\C#\retIREncLoop\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+L:\LP\C#\retIREncLoop\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+L:\LP\C#\retIREncLoop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+L:\LP\C#\retIREncLoop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+L:\LP\C#\retIREncLoop\ConsoleApplication1\obj\Debug\RetIREncLoop.csprojResolveAssemblyReference.cache

@@ -1,0 +1,47 @@
+C:\Users\rafae\OneDrive\Documentos\C#\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\C#\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\C#\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe.config
+C:\Users\rafae\OneDrive\Documentos\C#\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe
+C:\Users\rafae\OneDrive\Documentos\C#\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.pdb
+C:\Users\rafae\OneDrive\Documentos\C#\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.exe
+C:\Users\rafae\OneDrive\Documentos\C#\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.pdb
+J:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe.config
+J:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe
+J:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.pdb
+J:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csprojAssemblyReference.cache
+J:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csproj.CoreCompileInputs.cache
+J:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.exe
+J:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.pdb
+D:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe.config
+D:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe
+D:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.pdb
+D:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.exe
+D:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.pdb
+D:\tcm novo\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csprojResolveAssemblyReference.cache
+J:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe.config
+J:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe
+J:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.pdb
+J:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csprojAssemblyReference.cache
+J:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csproj.CoreCompileInputs.cache
+J:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.exe
+J:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.pdb
+C:\Users\manoe\Desktop\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe.config
+C:\Users\manoe\Desktop\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe
+C:\Users\manoe\Desktop\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.pdb
+C:\Users\manoe\Desktop\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csprojAssemblyReference.cache
+C:\Users\manoe\Desktop\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csproj.CoreCompileInputs.cache
+C:\Users\manoe\Desktop\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.exe
+C:\Users\manoe\Desktop\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.pdb
+G:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe.config
+G:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe
+G:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csprojResolveAssemblyReference.cache
+G:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csproj.CoreCompileInputs.cache
+G:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.exe
+G:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.pdb
+G:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.pdb
+F:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe.config
+F:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.exe
+F:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.pdb
+F:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.exe
+F:\TCM\Sistema CyberPunk\Sistema CyberPunk\bin\Debug\Sistema CyberPunk.pdb
+F:\TCM\Sistema CyberPunk\Sistema CyberPunk\obj\Debug\Sistema CyberPunk.csprojResolveAssemblyReference.cache

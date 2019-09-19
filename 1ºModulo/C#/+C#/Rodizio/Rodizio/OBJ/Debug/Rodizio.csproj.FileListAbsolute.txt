@@ -1,0 +1,14 @@
+C:\Users\manoe\Desktop\Rodizio\Rodizio\bin\Debug\Rodizio.exe.config
+C:\Users\manoe\Desktop\Rodizio\Rodizio\bin\Debug\Rodizio.exe
+C:\Users\manoe\Desktop\Rodizio\Rodizio\bin\Debug\Rodizio.pdb
+C:\Users\manoe\Desktop\Rodizio\Rodizio\obj\Debug\Rodizio.csprojAssemblyReference.cache
+C:\Users\manoe\Desktop\Rodizio\Rodizio\obj\Debug\Rodizio.csproj.CoreCompileInputs.cache
+C:\Users\manoe\Desktop\Rodizio\Rodizio\obj\Debug\Rodizio.exe
+C:\Users\manoe\Desktop\Rodizio\Rodizio\obj\Debug\Rodizio.pdb
+G:\C#\Certo\Rodizio\Rodizio\bin\Debug\Rodizio.exe.config
+G:\C#\Certo\Rodizio\Rodizio\bin\Debug\Rodizio.exe
+G:\C#\Certo\Rodizio\Rodizio\bin\Debug\Rodizio.pdb
+G:\C#\Certo\Rodizio\Rodizio\obj\Debug\Rodizio.csprojResolveAssemblyReference.cache
+G:\C#\Certo\Rodizio\Rodizio\obj\Debug\Rodizio.csproj.CoreCompileInputs.cache
+G:\C#\Certo\Rodizio\Rodizio\obj\Debug\Rodizio.exe
+G:\C#\Certo\Rodizio\Rodizio\obj\Debug\Rodizio.pdb

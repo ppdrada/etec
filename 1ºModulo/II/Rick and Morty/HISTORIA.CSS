@@ -1,0 +1,134 @@
+body{
+    background-color: #212121;
+    padding: 0;
+    margin: 0;
+}
+
+#sidebar{
+    width: 20%;
+    height: 100%;
+    background-color: #FFFF00;
+    position: fixed;
+    box-shadow: 4px 1px 8px 2px rgba(0,0,0,0.4);
+}
+
+#img_logo{
+    width: 75%;
+    padding-left: 1.5em;
+    padding-top: 0.5em;
+}
+
+#list_divider{
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 0px 16px;
+    text-transform: uppercase;
+}
+
+#list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#list_item{
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: black;
+}
+
+.active{
+    background-color: #82B1FF;
+}
+
+#list_item:hover:not(.active){
+    background-color: #FDD835;
+}
+
+#welcome_text{
+    position: fixed;
+    font-size: 100px;
+    margin: 0;
+    text-align: center;
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}
+
+#content{
+    margin-left: 20%;
+    margin-bottom: 10em;
+    height: 100%;
+}
+
+#content p{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 110%;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#title{
+    background-color: black;
+    margin-left: 10em;
+    margin-right: 10em;
+    border-color: #FFFF00;
+    border-width: 0.2em;
+    border-style: solid;
+    padding: 0;
+}
+
+#title h1{
+    font-family: 'Abel', sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    color: white;
+    padding: 0.5em;
+    margin: 0;
+    text-align: center;
+}
+
+.row{
+    padding-top: 1em;
+    margin-left: 5em;
+    margin-right: 5em;
+    display: table;
+}
+
+.column{
+    float: left;
+    width: 50%;
+}
+
+#before{
+    padding: 0;
+    background-color: white;
+    overflow: auto;
+    margin-top: 5em;
+}
+
+#after{
+    padding: 0;
+    background-color: white;
+    overflow: auto;
+    margin-bottom: 5em;
+}
+
+#before img{
+    margin: 3em;
+    width: 20em;
+    float: left;
+    color: black;
+}
+
+#after img{
+    margin: 3em;
+    width: 20em;
+    float: right;
+    color: black;
+}

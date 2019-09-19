@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMCseq", "IMCseq\IMCseq.csproj", "{A3936675-0DDD-47FB-AB8D-537488A5C65A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3936675-0DDD-47FB-AB8D-537488A5C65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3936675-0DDD-47FB-AB8D-537488A5C65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3936675-0DDD-47FB-AB8D-537488A5C65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3936675-0DDD-47FB-AB8D-537488A5C65A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF4CD01-59DE-4D29-B6FD-B53F37A7DBF9}
+	EndGlobalSection
+EndGlobal

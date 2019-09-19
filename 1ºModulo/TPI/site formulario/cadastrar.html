@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="cadastrar.css">
+    </head>
+    <body>
+        <section id="conteudo">
+        <p><h1>Cadastre-se</h1></p>
+            <form>
+                <div style="float: left; margin-right: 4em">
+                <p><label for="cNome">Nome: </label><input class="id" type="text" required="required" maxlength="20" name="tnome" id="cNome" size="30" maxlength="40" placeholder="Digite seu nome"></p>
+                <p><label for="cDate">Data de nascimento: </label>
+                    <input type="date" required="required" maxlength="20" name="tDate" id="cDate"></p>
+                <p><label for="cEstado">Estado </label>
+                    <input class="id" type="text" required="required" maxlength="20" name="tEstado" id="cEstado" size="30" maxlength="40" placeholder="Digite o estado onde reside"></p>
+                </div>
+
+                <fieldset>
+                    <legend>Sexo</legend>
+                    <p><label for="cMasc">Masculino</label>
+                        <input type="radio" name="tSexo" id="cMasc" value="M" checked="true"></p>
+                    <p><label for="cFemi">Feminino</label>
+                        <input type="radio" name="tSexo" id="cFemi" value="F"></p>
+                </fieldset>
+                
+                <p><label for="cTel">Telefone: </label><input type="tel" required="required" maxlength="20" name="tTel" id="cTel" size="14" placeholder="Digite seu número" pattern="[()][0-9]{2}[)][0-9]{9}" title="(XX)XXXXXXXXX"></p>
+                <p><label for="cEmail">E-mail: </label><input class="id" type="email" required="required" maxlength="20" name="tEmail" id="cEmail" size="30" placeholder="Digite seu email"></p>
+                <p><label for="cSenha">Senha: </label><input class="id" type="password" required="required" maxlength="20" name="tSenha" id="cSenha"    size="30" placeholder="Senha"></p>
+
+                <p><label for="cConfirmarSenha">Confirme Sua Senha: </label><input class="id" type="password" required="required" maxlength="20" name="tConfirmarSenha" id="cConfirmarSenha" size="30" placeholder="Confirme Sua Senha"></p>
+                
+                <p><label for="cEstado">Selecione o estado onde reside:</label></p>
+                <select name="Estado" size="4">
+                    <option select>São Paulo</option>
+                    <option>Minas Gerais</option>
+                    <option>Mato Grosso</option>
+                    <option>Bahia</option>
+                </select>
+                <p><input type="submit" name="enviar" value="enviar dados"/></p>
+            </form>
+        </section>
+    </body>
+</html>    
