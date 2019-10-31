@@ -1,0 +1,12 @@
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.frmPrincipal.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.Perfil.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Menu\Menu\obj\Debug\Menu.Bum.resources

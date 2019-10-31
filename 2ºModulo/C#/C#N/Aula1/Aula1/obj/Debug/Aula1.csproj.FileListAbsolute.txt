@@ -1,0 +1,19 @@
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\bin\Debug\Aula1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\bin\Debug\Aula1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\bin\Debug\Aula1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\obj\Debug\Aula1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\obj\Debug\Aula1.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\obj\Debug\Aula1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\obj\Debug\Aula1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\obj\Debug\Aula1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Aula1\Aula1\obj\Debug\Aula1.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\bin\Debug\Aula1.exe.config
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\bin\Debug\Aula1.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\bin\Debug\Aula1.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\obj\Debug\Aula1.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\obj\Debug\Aula1.Form1.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\obj\Debug\Aula1.Properties.Resources.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\obj\Debug\Aula1.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\obj\Debug\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\obj\Debug\Aula1.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Aula1\Aula1\obj\Debug\Aula1.pdb

@@ -1,0 +1,44 @@
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\bin\Debug\Letreiro.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\bin\Debug\Letreiro.exe
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\bin\Debug\Letreiro.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\obj\Debug\Letreiro.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\obj\Debug\Letreiro.frmLetreiro.resources
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\obj\Debug\Letreiro.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\obj\Debug\Letreiro.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\obj\Debug\Letreiro.exe
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\obj\Debug\Letreiro.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Letreiro\Letreiro\obj\Debug\Letreiro.frmTexto.resources
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.exe.config
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.exe
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.pdb
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.exe
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.pdb
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.frmLetreiro.resources
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.frmTexto.resources
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.Properties.Resources.resources
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.csproj.GenerateResource.Cache
+H:\Letreiro\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.exe.config
+H:\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.exe
+H:\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.pdb
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.exe.config
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.exe
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.pdb
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.exe
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.pdb
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.frmLetreiro.resources
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.frmTexto.resources
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.Properties.Resources.resources
+C:\Users\Admin\Desktop\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.exe.config
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.exe
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\bin\Debug\Letreiro.pdb
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.frmLetreiro.resources
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.frmTexto.resources
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.Properties.Resources.resources
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.exe
+C:\Users\pedro\Pictures\Letreiro\Letreiro\Letreiro\Letreiro\obj\Debug\Letreiro.pdb

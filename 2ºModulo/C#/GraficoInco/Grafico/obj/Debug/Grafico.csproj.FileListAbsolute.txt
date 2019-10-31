@@ -1,0 +1,37 @@
+C:\Users\Admin\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\Admin\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\Admin\Desktop\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\Admin\Desktop\Grafico\Grafico\obj\Debug\Grafico.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Grafico\Grafico\obj\Debug\Grafico.Principal.resources
+C:\Users\Admin\Desktop\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\Admin\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\Admin\Desktop\Grafico\Grafico\obj\Debug\Grafico.pdb
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\bin\Debug\Grafico.exe.config
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\obj\Debug\Grafico.exe
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\obj\Debug\Grafico.pdb
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\bin\Debug\Grafico.exe
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\bin\Debug\Grafico.pdb
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\obj\Debug\Grafico.csprojResolveAssemblyReference.cache
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\obj\Debug\Grafico.Principal.resources
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+G:\ETEC\2 - Módulo\DS I\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache
+G:\Grafico\Grafico\bin\Debug\Grafico.exe.config
+G:\Grafico\Grafico\obj\Debug\Grafico.exe
+G:\Grafico\Grafico\obj\Debug\Grafico.pdb
+G:\Grafico\Grafico\bin\Debug\Grafico.exe
+G:\Grafico\Grafico\bin\Debug\Grafico.pdb
+G:\Grafico\Grafico\obj\Debug\Grafico.csprojResolveAssemblyReference.cache
+G:\Grafico\Grafico\obj\Debug\Grafico.Principal.resources
+G:\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+G:\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\obj\Debug\Grafico.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\obj\Debug\Grafico.Principal.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Grafico\Grafico\obj\Debug\Grafico.pdb

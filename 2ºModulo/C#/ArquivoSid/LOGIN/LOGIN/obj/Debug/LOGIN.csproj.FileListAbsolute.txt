@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.frmLogin.resources
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Form2.resources
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Form3.resources
+c:\users\admin\documents\visual studio 2013\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Form4.resources

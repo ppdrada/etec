@@ -1,0 +1,19 @@
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\bin\Debug\VamosLa.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\bin\Debug\VamosLa.exe
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\bin\Debug\VamosLa.pdb
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\obj\Debug\VamosLa.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\obj\Debug\VamosLa.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\obj\Debug\VamosLa.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\obj\Debug\VamosLa.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\obj\Debug\VamosLa.exe
+c:\users\admin\documents\visual studio 2013\Projects\VamosLa\VamosLa\obj\Debug\VamosLa.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\bin\Debug\VamosLa.exe.config
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\bin\Debug\VamosLa.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\bin\Debug\VamosLa.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\obj\Debug\VamosLa.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\obj\Debug\VamosLa.Form1.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\obj\Debug\VamosLa.Properties.Resources.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\obj\Debug\VamosLa.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\obj\Debug\VamosLa.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\obj\Debug\VamosLa.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\VamosLa\VamosLa\obj\Debug\VamosLa.pdb

@@ -1,0 +1,28 @@
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\bin\Debug\Graficu.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\bin\Debug\Graficu.exe
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\bin\Debug\Graficu.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\obj\Debug\Graficu.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\obj\Debug\Graficu.FrmPrincipal.resources
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\obj\Debug\Graficu.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\obj\Debug\Graficu.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\obj\Debug\Graficu.exe
+c:\users\admin\documents\visual studio 2013\Projects\Graficu\Graficu\obj\Debug\Graficu.pdb
+C:\Users\Admin\Desktop\Graficu\Graficu\bin\Debug\Graficu.exe.config
+C:\Users\Admin\Desktop\Graficu\Graficu\bin\Debug\Graficu.exe
+C:\Users\Admin\Desktop\Graficu\Graficu\bin\Debug\Graficu.pdb
+C:\Users\Admin\Desktop\Graficu\Graficu\obj\Debug\Graficu.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Graficu\Graficu\obj\Debug\Graficu.FrmPrincipal.resources
+C:\Users\Admin\Desktop\Graficu\Graficu\obj\Debug\Graficu.Properties.Resources.resources
+C:\Users\Admin\Desktop\Graficu\Graficu\obj\Debug\Graficu.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Graficu\Graficu\obj\Debug\Graficu.exe
+C:\Users\Admin\Desktop\Graficu\Graficu\obj\Debug\Graficu.pdb
+D:\DS\Graficu\Graficu\bin\Debug\Graficu.exe.config
+D:\DS\Graficu\Graficu\bin\Debug\Graficu.exe
+D:\DS\Graficu\Graficu\bin\Debug\Graficu.pdb
+D:\DS\Graficu\Graficu\obj\Debug\Graficu.csprojAssemblyReference.cache
+D:\DS\Graficu\Graficu\obj\Debug\Graficu.FrmPrincipal.resources
+D:\DS\Graficu\Graficu\obj\Debug\Graficu.Properties.Resources.resources
+D:\DS\Graficu\Graficu\obj\Debug\Graficu.csproj.GenerateResource.cache
+D:\DS\Graficu\Graficu\obj\Debug\Graficu.csproj.CoreCompileInputs.cache
+D:\DS\Graficu\Graficu\obj\Debug\Graficu.exe
+D:\DS\Graficu\Graficu\obj\Debug\Graficu.pdb

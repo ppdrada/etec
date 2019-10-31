@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\bin\Debug\MaisUm.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\bin\Debug\MaisUm.exe
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\bin\Debug\MaisUm.pdb
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\obj\Debug\MaisUm.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\obj\Debug\MaisUm.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\obj\Debug\MaisUm.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\obj\Debug\MaisUm.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\obj\Debug\MaisUm.exe
+c:\users\admin\documents\visual studio 2013\Projects\MaisUm\MaisUm\obj\Debug\MaisUm.pdb
+G:\MaisUm\MaisUm\bin\Debug\MaisUm.exe.config
+G:\MaisUm\MaisUm\obj\Debug\MaisUm.exe
+G:\MaisUm\MaisUm\obj\Debug\MaisUm.pdb
+G:\MaisUm\MaisUm\bin\Debug\MaisUm.exe
+G:\MaisUm\MaisUm\bin\Debug\MaisUm.pdb
+G:\MaisUm\MaisUm\obj\Debug\MaisUm.csprojResolveAssemblyReference.cache
+G:\MaisUm\MaisUm\obj\Debug\MaisUm.Form1.resources
+G:\MaisUm\MaisUm\obj\Debug\MaisUm.Properties.Resources.resources
+G:\MaisUm\MaisUm\obj\Debug\MaisUm.csproj.GenerateResource.Cache

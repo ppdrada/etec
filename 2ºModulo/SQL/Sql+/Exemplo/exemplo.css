@@ -1,0 +1,61 @@
+*{
+	margin: 0%;
+	box-sizing: border-box;
+	font-family: ubuntu, Arial, sans-serif;
+}
+body{
+	background-image: url('dinheiro.jpg');
+}
+img{
+	margin-top: -25px;
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+ul{
+	list-style: none;
+	display: flex;
+	padding: 0;
+}
+li{
+	margin: 3px;
+	padding: 5px 15px;
+	border: 1px solid #9A9A9A9A;
+	background: #E0E0E0;
+	flex-grow: 1;
+}
+li:hover{
+	cursor: pointer;
+	background: #C0C0C0C0;
+}
+form{
+	background-color: rgb(255, 255, 255, 0.7);
+	margin: 30px 50px;
+	width: 400px;
+}
+form>label{
+	margin: 2px;
+	display: block;
+}
+form>label>span{
+	width: 100px;
+	display: inline-block;
+}
+form>button{
+	float:right;
+	margin: 20px 150px;
+}
+
+h1{
+	margin: 25px 0 55px 0;
+}
+table{
+	width: 90%;
+	margin: 10px 4%;
+	border: 1px solid #636363;
+}
+
+th{
+	background: #303030;
+	color:#FFFFFF;
+}

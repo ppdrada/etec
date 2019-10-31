@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <script>
+  function fnPosicionar()
+  {
+    var
+      oImgs = document.getElementsByTagName('IMG'),
+      nCont=0;
+    
+    for (nCont=0; nCont<oImgs.length; nCont++)
+    {
+      oImgs[nCont].style.left = parseInt(Math.random() * 800);
+      oImgs[nCont].style.top = parseInt(Math.random() * 450);
+    }
+    
+  }
+  </script>
+  <link href="imagens.css" rel="stylesheet" />
+</head>
+
+<body onLoad="fnPosicionar()">
+
+  <img />
+  <img />
+  <img />
+  <img />
+  <img />
+  <img />
+  <img />
+  <img />
+  <img />
+
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\bin\Debug\Formularios1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\bin\Debug\Formularios1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\bin\Debug\Formularios1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.Form2.resources
+c:\users\admin\documents\visual studio 2013\Projects\Formularios1\Formularios1\obj\Debug\Formularios1.Form3.resources

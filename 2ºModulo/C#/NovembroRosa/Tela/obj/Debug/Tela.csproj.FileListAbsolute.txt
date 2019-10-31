@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\bin\Debug\Tela.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\bin\Debug\Tela.exe
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\bin\Debug\Tela.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\obj\Debug\Tela.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\obj\Debug\Tela.frmJanela.resources
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\obj\Debug\Tela.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\obj\Debug\Tela.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\obj\Debug\Tela.exe
+c:\users\admin\documents\visual studio 2013\Projects\Tela\Tela\obj\Debug\Tela.pdb

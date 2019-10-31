@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\bin\Debug\Bunda.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\obj\Debug\Bunda.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\obj\Debug\Bunda.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\obj\Debug\Bunda.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\obj\Debug\Bunda.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\bin\Debug\Bunda.exe
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\bin\Debug\Bunda.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\obj\Debug\Bunda.exe
+c:\users\admin\documents\visual studio 2013\Projects\Bunda\Bunda\obj\Debug\Bunda.pdb
+G:\Bunda\Bunda\bin\Debug\Bunda.exe.config
+G:\Bunda\Bunda\obj\Debug\Bunda.exe
+G:\Bunda\Bunda\obj\Debug\Bunda.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\bin\Debug\Bunda.exe.config
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\bin\Debug\Bunda.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\bin\Debug\Bunda.pdb
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\obj\Debug\Bunda.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\obj\Debug\Bunda.Form1.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\obj\Debug\Bunda.Properties.Resources.resources
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\obj\Debug\Bunda.csproj.GenerateResource.Cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\obj\Debug\Bunda.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\obj\Debug\Bunda.exe
+C:\Users\pedro\Pictures\Saved Pictures\2ºModulo\C#\Bunda\Bunda\obj\Debug\Bunda.pdb

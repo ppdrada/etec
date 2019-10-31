@@ -1,0 +1,40 @@
+IMG
+{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background-image: url(gato.png);
+  background-size: 600px 600px;
+}
+IMG:nth-child(2)
+{
+  background-position: -200px 0px;
+}
+IMG:nth-child(3)
+{
+  background-position: -400px 0px;
+}
+IMG:nth-child(4)
+{
+  background-position: 0px -200px;
+}
+IMG:nth-child(5)
+{
+  background-position: -200px -200px;
+}
+IMG:nth-child(6)
+{
+  background-position: -400px -200px;
+}
+IMG:nth-child(7)
+{
+  background-position: 0px -400px;
+}
+IMG:nth-child(8)
+{
+  background-position: -200px -400px;
+}
+IMG:nth-child(9)
+{
+  background-position: -400px -400px;
+}
