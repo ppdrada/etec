@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\bin\Debug\Play.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\obj\Debug\Play.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\obj\Debug\Play.frmPrincipal.resources
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\obj\Debug\Play.frmAlbuns.resources
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\obj\Debug\Play.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\obj\Debug\Play.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\bin\Debug\Play.exe
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\bin\Debug\Play.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\obj\Debug\Play.exe
+c:\users\admin\documents\visual studio 2013\Projects\Play\Play\obj\Debug\Play.pdb

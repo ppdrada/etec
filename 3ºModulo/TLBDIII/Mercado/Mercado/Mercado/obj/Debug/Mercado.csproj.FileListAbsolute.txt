@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\bin\Debug\Mercado.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.Categorias.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\bin\Debug\Mercado.exe
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\bin\Debug\Mercado.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.exe
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.Fornecedores.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mercado\Mercado\obj\Debug\Mercado.Produtos.resources
+G:\3ºModulo\Mercado\Mercado\Mercado\bin\Debug\Mercado.exe.config
+G:\3ºModulo\Mercado\Mercado\Mercado\obj\Debug\Mercado.exe
+G:\3ºModulo\Mercado\Mercado\Mercado\obj\Debug\Mercado.pdb

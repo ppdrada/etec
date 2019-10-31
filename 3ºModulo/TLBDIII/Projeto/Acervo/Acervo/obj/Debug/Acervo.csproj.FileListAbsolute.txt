@@ -1,0 +1,55 @@
+G:\3 MODULO\DS\Acervo\Acervo\bin\Debug\Acervo.exe.config
+G:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.csprojResolveAssemblyReference.cache
+G:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.FrmPrincipal.resources
+G:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.FrmAlbuns.resources
+G:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.Properties.Resources.resources
+G:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.csproj.GenerateResource.Cache
+G:\3 MODULO\DS\Acervo\Acervo\bin\Debug\Acervo.exe
+G:\3 MODULO\DS\Acervo\Acervo\bin\Debug\Acervo.pdb
+G:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.exe
+G:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.pdb
+D:\3 MODULO\DS\Acervo\Acervo\bin\Debug\Acervo.exe.config
+D:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.exe
+D:\3 MODULO\DS\Acervo\Acervo\obj\Debug\Acervo.pdb
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.FrmPrincipal.resources
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.FrmAlbuns.resources
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.exe
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.pdb
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.FrmArtistas.resources
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\Acervo.exe.config
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\Acervo.exe
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\Acervo.pdb
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\MySql.Data.dll
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\Google.Protobuf.dll
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Documentos\ETEC\3ºModulo\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.csproj.CopyComplete
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\Acervo.exe.config
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.exe
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.pdb
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.FrmPrincipal.resources
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.FrmAlbuns.resources
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.FrmArtistas.resources
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.FrmIntegrantes.resources
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.Properties.Resources.resources
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\obj\Debug\Acervo.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\Acervo.exe
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\Acervo.pdb
+C:\Users\Admin\Desktop\TLBDIII\Acervo\Acervo\Acervo\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\Acervo\Acervo\bin\Debug\Acervo.exe.config
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.exe
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.pdb
+C:\Users\Admin\Desktop\Acervo\Acervo\bin\Debug\Acervo.exe
+C:\Users\Admin\Desktop\Acervo\Acervo\bin\Debug\Acervo.pdb
+C:\Users\Admin\Desktop\Acervo\Acervo\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.FrmPrincipal.resources
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.FrmAlbuns.resources
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.FrmArtistas.resources
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.FrmIntegrantes.resources
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.Properties.Resources.resources
+C:\Users\Admin\Desktop\Acervo\Acervo\obj\Debug\Acervo.csproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+INSERT INTO TURISMO(TUR_NOME, TUR_ESTADO) VALUES('Parque Nacional da Serra da Canastra','MG');
+INSERT INTO TURISMO(TUR_NOME, TUR_ESTADO) VALUES('Praça da Liberdade','MG');
+INSERT INTO TURISMO(TUR_NOME, TUR_ESTADO) VALUES('Igreja de São Francisco de Assis','MG');

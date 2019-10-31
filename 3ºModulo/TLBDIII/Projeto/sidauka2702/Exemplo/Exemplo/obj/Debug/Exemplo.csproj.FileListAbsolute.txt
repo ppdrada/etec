@@ -1,0 +1,42 @@
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.Form1.resources
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.cache
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.Form1.resources
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+G:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.Cache
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\MySql.Data.dll
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\Google.Protobuf.dll
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\bin\Debug\MySql.Data.xml
+F:\ETEC\sidney\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CopyComplete
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.Form1.resources
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\Admin\Desktop\sidauka2702\Exemplo\Exemplo\bin\Debug\MySql.Data.xml
